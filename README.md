@@ -6,7 +6,7 @@
 | ---------- | ---------- |
 | Varsha     | 2420030331 |
 | Sri Kruthi | 2420090003 |
-| Sri Satya  | 2420090003 |
+| Sri Satya  | 2420090007 |
 
 ## Supervisor
 
