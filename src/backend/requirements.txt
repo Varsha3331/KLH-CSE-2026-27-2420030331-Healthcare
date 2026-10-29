@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+python-dotenv
+pydantic>=2
+scikit-learn
+pandas
+numpy
+xgboost
+joblib
+PyJWT
+pytest
+httpx
+# psycopg2-binary   # uncomment only if you switch DATABASE_URL to PostgreSQL
